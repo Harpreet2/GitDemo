@@ -17,12 +17,23 @@
     <output url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/intermediates/javac/debug/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/ap_generated_sources/debug/out" />
     <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/ap_generated_sources/debug/out" />
     <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/res/resValues/debug" />
     <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/res/resValues/debug" />
     <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/source/buildConfig/debug" />
     <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/build/generated/source/buildConfig/debug" />
     <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/src/debug" />
+    <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/src/debug" />
+    <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/src/main/res" type="java-resource" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../AndroidStudioProjects/MyApplication/app/src/main/res" type="java-resource" />
