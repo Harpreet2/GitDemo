@@ -13,8 +13,14 @@ public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() {
 
+
         System.out.println("hello");
         System.out.println("bye");
+
+        System.out.println("this is a test commit");
+        System.out.println("this another line");
+
+
         assertEquals(4, 2 + 2);
     }
 }
