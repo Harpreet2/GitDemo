@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/AndroidStudioProjects/MyApplication" />
+            <option value="$PROJECT_DIR$/AndroidStudioProjects/MyApplication/app" />
           </set>
         </option>
       </GradleProjectSettings>
